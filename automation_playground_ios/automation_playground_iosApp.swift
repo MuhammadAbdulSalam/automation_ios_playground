@@ -11,7 +11,7 @@ import SwiftUI
 struct automation_playground_iosApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeScreen()
         }
     }
 }
